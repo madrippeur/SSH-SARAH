@@ -2,7 +2,7 @@
 	"modules"	: { 
 		"ssh"		: {
 			"description"	: "Envoie de commande Bash via putty",
-			"version"	: "1.01",
+			"version"	: "1.1",
 			"api_url_ssh_ip"	: "IP",
 			"api_url_ssh_port"	: "PORT",
 			"api_url_ssh_user"	: "UTILISATEUR",
