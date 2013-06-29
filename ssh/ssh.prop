@@ -1,0 +1,12 @@
+{
+	"modules"	: { 
+		"ssh"		: {
+			"description"	: "Envoie de commande Bash via putty",
+			"version"	: "1.01",
+			"api_url_ssh_ip"	: "IP",
+			"api_url_ssh_port"	: "PORT",
+			"api_url_ssh_user"	: "UTILISATEUR",
+			"api_url_ssh_pass"	: "MOTDEPASSE"
+    		}
+  	}
+}
