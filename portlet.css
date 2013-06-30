@@ -1,0 +1,10 @@
+
+.plugin-gridster.ssh .front {
+  background: #FFFFFF url('images/term.png') center 2px;
+  background-size:   160px 160px;
+  background-repeat: no-repeat;
+}
+
+.plugin-gridster.ssh .back {
+  background: #FFFFFF;
+}
